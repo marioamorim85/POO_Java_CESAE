@@ -51,7 +51,7 @@ O repositório está organizado por aulas e fichas de trabalho:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/o-seu-utilizador/repo-java-poo.git
+   git clone https://github.com/marioamorim85/POO_Java_CESAE.git
    ```
 2. Importe o projeto na sua IDE de preferência.
 3. Localize a classe `Main` de cada exercício e execute.
