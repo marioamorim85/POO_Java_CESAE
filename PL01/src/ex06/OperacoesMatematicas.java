@@ -29,4 +29,26 @@ public class OperacoesMatematicas {
         return Math.pow(base, expoente);
     }
 
+    /**
+     * Calcula a raiz quadrada de um número
+     * 
+     * @param num o número para o qual queremos a raiz
+     * @return o resultado da raiz quadrada
+     */
+    public double raizQuadrada (double num) {
+        return Math.sqrt(num);
+    }
+
+    /**
+     * Calcula a média aritmética de 3 números
+     * 
+     * @param n1 o primeiro número
+     * @param n2 o segundo número
+     * @param n3 o terceiro némero
+     * @return a média aritmética dos 3 números
+     */
+
+    public double media(double n1, double n2, double n3) {
+        return (n1+n2+n3) / 3;
+    }
 }
