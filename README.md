@@ -48,11 +48,12 @@ O repositório está organizado por aulas, fichas de trabalho e exercícios tem�
 
 ### 🧩 Exercícios de POO
 
-| Pasta        | Conceito              | Descrição                                   |
-| ------------ | --------------------- | ------------------------------------------- |
-| `ArrayList/` | **Coleções**          | Gestão de carros com ArrayList              |
-| `Heranca/`   | **Herança**           | Sistema de Funcionários (Gerente, Vendedor) |
-| `Abstract/`  | **Classes Abstratas** | Sistema de Veículos (Carro, Bicicleta)      |
+| Pasta        | Conceito              | Descrição                                       |
+| ------------ | --------------------- | ----------------------------------------------- |
+| `ArrayList/` | **Coleções**          | Gestão de carros com ArrayList                  |
+| `Heranca/`   | **Herança**           | Sistema de Funcionários (Gerente, Vendedor)     |
+| `Abstract/`  | **Classes Abstratas** | Sistema de Veículos (Carro, Bicicleta) - Básico |
+| `Abstract2/` | **Classes Abstratas** | Sistema de Funcionários com Salários - Avançado |
 
 ### 🌟 Extras (Conteúdo Adicional)
 
