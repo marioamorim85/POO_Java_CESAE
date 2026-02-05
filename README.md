@@ -56,13 +56,13 @@ O repositório está organizado por aulas, fichas de trabalho e exercícios tem�
 
 ### 🌟 Extras (Conteúdo Adicional)
 
-Exercícios extra para aprofundamento de conhecimentos (não abordados em aula):
+Exercícios extra para aprofundamento de conhecimentos (não abordados em aula), organizados na pasta `Extra/`:
 
-| Pasta         | Conceito                      | Descrição                                           |
-| ------------- | ----------------------------- | --------------------------------------------------- |
-| `Excecoes/`   | **Gestão de Exceções**        | Sistema bancário com exceções personalizadas        |
-| `Ficheiros/`  | **Leitura/Escrita Ficheiros** | Sistema de alunos com persistência em ficheiros CSV |
-| `Interfaces/` | **Interfaces**                | Sistema de pagamentos com múltiplas interfaces      |
+| Pasta               | Conceito                      | Descrição                                           |
+| ------------------- | ----------------------------- | --------------------------------------------------- |
+| `Extra/Excecoes/`   | **Gestão de Exceções**        | Sistema bancário com exceções personalizadas        |
+| `Extra/Ficheiros/`  | **Leitura/Escrita Ficheiros** | Sistema de alunos com persistência em ficheiros CSV |
+| `Extra/Interfaces/` | **Interfaces**                | Sistema de pagamentos com múltiplas interfaces      |
 
 ### 🎓 Projeto Final
 
