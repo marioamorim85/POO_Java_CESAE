@@ -64,6 +64,8 @@ ProjetoFinal3/
 -- Default: cesae_db, user: root, password: (vazio)
 ```
 
+> **⚠️ Nota Importante:** As pastas `node_modules` (frontend) e `build` (backend) foram ignoradas no Git. É necessário seguir os passos abaixo para instalar as dependências e compilar o projeto.
+
 ### 2. Backend (Terminal 1)
 
 ```powershell

@@ -35,14 +35,16 @@ ProjetoFinal2/
 
 ### Opcao 1: Linha de Comandos
 
+> **⚠️ Nota Importante:** A pasta `bin/` (com os .class compilados) foi intencionalmente ignorada no Git (`.gitignore`). É **obrigatório** compilar o projeto antes de executar.
+
 ```powershell
-# Navegar para a pasta do projeto
+# 1. Navegar para a pasta do projeto
 cd ProjetoFinal2
 
-# Compilar
+# 2. Compilar (Gera os .class na pasta bin)
 javac -d bin -sourcepath src src/App.java src/MainFrame.java src/model/*.java
 
-# Executar
+# 3. Executar
 java -cp bin App
 ```
 
