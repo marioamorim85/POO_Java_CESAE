@@ -65,11 +65,17 @@ Exercícios extra para aprofundamento de conhecimentos (não abordados em aula),
 | `Extra/Ficheiros/`  | **Leitura/Escrita Ficheiros** | Sistema de alunos com persistência em ficheiros CSV |
 | `Extra/Interfaces/` | **Interfaces**                | Sistema de pagamentos com múltiplas interfaces      |
 
-### 🎓 Projeto Final
+### 🎓 Projetos Finais
 
-| Pasta      | Descrição                                              |
-| ---------- | ------------------------------------------------------ |
-| `Projeto/` | Template inicial e guia para o Projeto Final do módulo |
+O repositório contém três versões evolutivas do Projeto Final, demonstrando diferentes abordagens e tecnologias:
+
+| Pasta            | Versão | Descrição                                                                                                                                            | Tecnologias       |
+| :--------------- | :----: | :--------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------- |
+| `ProjetoFinal/`  | **v1** | **Backend Java Console**<br>Implementação base do sistema de gestão académica, focada na lógica de negócio e POO. Interação via terminal.            | Java (Console)    |
+| `ProjetoFinal2/` | **v2** | **Backend Java + Swing GUI**<br>Evolução da v1 com interface gráfica desktop nativa. Utiliza a biblioteca Swing para janelas, tabelas e formulários. | Java, Swing       |
+| `ProjetoFinal3/` | **v3** | **Backend Java + Frontend React**<br>Versão Full-stack moderna. Backend em Java (expondo dados/lógica) e Frontend em React interativo.               | Java, React, Vite |
+
+> **Nota:** A pasta `Projeto/` contém o template inicial fornecido aos alunos.
 
 ---
 

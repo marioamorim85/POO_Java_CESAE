@@ -1,0 +1,20 @@
+# Java
+*.class
+bin/
+build/
+out/
+.gradle/
+*.ser
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Node.js
+node_modules/
+dist/
+.env
+.DS_Store
